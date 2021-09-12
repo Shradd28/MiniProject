@@ -87,7 +87,7 @@
 
 <body bgcolor = "pink">
         <h1 align ='center'>Login for Admin only!</h1>
-        <form method="post" action="admin.jsp">
+        <form method="post" action="adminAccess.jsp">
             <center>
             <table border="1" width="30%" cellpadding="3">
                 <thead>
