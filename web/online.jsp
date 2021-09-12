@@ -47,7 +47,7 @@ and open the template in the editor.
                 <div class="container-fluid">
                     <nav class="navbar navbar-light navbar-expand-lg" style="background-color:#a495f0;" >
                         <a class="navbar-brand" href="">
-                            <img src="https://www.flaticon.com/svg/static/icons/svg/1226/1226240.svg" width="50px" alt="">
+                            <img src="" width="50px" alt="">
                         </a>
                         <button data-toggle="collapse" data-target="#navbarToggler" type="button" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
                         <div class="collapse navbar-collapse" id="navbarToggler">
@@ -107,7 +107,7 @@ and open the template in the editor.
                     <p style="font-size: large; padding-top: 20px;">MONDAYS & WEDNESDAYS <br>Evening 6:00 pm to 7:00 pm</p>
                 </div>
                 <div class="col-6"> 
-                    <img class="img-thumbnail" style="height:12rem; width:auto; border:1px solid black;" src="https://www.flaticon.com/svg/static/icons/svg/2811/2811157.svg"  alt="">
+                    <img class="img-thumbnail" style="height:12rem; width:auto; border:1px solid black;" src="https://cdn-icons-png.flaticon.com/512/1728/1728650.png"  alt="">
                 </div>
             </div>
         </div>
@@ -119,7 +119,7 @@ and open the template in the editor.
                     <p style="font-size: large; padding-top: 20px;">TUESDAYS & THURSDAYS <br>Evening 6:00 pm to 7:00 pm</p>
                 </div>
                 <div class="col-6"> 
-                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://www.flaticon.com/svg/static/icons/svg/3048/3048327.svg"  alt="">
+                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://cdn-icons-png.flaticon.com/512/2410/2410221.png"  alt="">
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@ and open the template in the editor.
                     <p style="font-size: large; padding-top: 20px;">MONDAYS & WEDNESDAYS <br>Evening 7:00 pm to 8:00 pm</p>
                 </div>
                 <div class="col-6"> 
-                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://www.flaticon.com/svg/static/icons/svg/2410/2410221.svg"  alt="">
+                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://cdn-icons-png.flaticon.com/512/3048/3048327.png"  alt="">
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@ and open the template in the editor.
                     <p style="font-size: large; padding-top: 20px;">FRIDAYS & SATURDAYS <br>Evening 6:00 pm to 7:00 pm</p>
                 </div>
                 <div class="col-6"> 
-                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://www.flaticon.com/svg/static/icons/svg/1902/1902302.svg"  alt="">
+                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://cdn-icons-png.flaticon.com/512/925/925847.png"  alt="">
                 </div>
             </div>
         </div>
@@ -155,7 +155,7 @@ and open the template in the editor.
                     <p style="font-size: large; padding-top: 20px;">FRIDAYS & SATURDAYS <br>Evening 7:00 pm to 8:00 pm</p>
                 </div>
                 <div class="col-6"> 
-                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://www.flaticon.com/svg/static/icons/svg/925/925847.svg"  alt="">
+                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://cdn-icons-png.flaticon.com/512/1902/1902302.png"  alt="">
                 </div>
             </div>
         </div>
@@ -167,7 +167,7 @@ and open the template in the editor.
                     <p style="font-size: large; padding-top: 20px;">MONDAYS to SATURDAYS<br>Morning 8:00 am to 9:00 am</p>
                 </div>
                 <div class="col-6"> 
-                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://www.flaticon.com/svg/static/icons/svg/2302/2302208.svg"  alt="">
+                    <img class="img-thumbnail" style="height:12rem; width:auto; border: 1px solid black;" src="https://cdn-icons-png.flaticon.com/512/2302/2302208.png"  alt="">
                 </div>
             </div>
         </div>
