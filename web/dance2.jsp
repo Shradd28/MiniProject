@@ -92,7 +92,7 @@
                 </div>
 
                 <div class="col-md-7" >
-                    <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/3572/3572055.svg" width="300px" alt="">
+                    <img class="img-fluid  qualities-img  p-5" src="https://cdn-icons-png.flaticon.com/512/3572/3572055.png" width="300px" alt="">
 
                 </div>
             </div>
@@ -111,7 +111,7 @@
             <div class="row">
                 <div class="col-md-4 pl-4">
                         <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" style="height:13.5rem; width:100%;" src="https://www.flaticon.com/svg/static/icons/svg/39/39951.svg"alt="Card image cap">
+                            <img class="card-img-top" style="height:13.5rem; width:100%;" src="https://cdn-icons-png.flaticon.com/512/1902/1902302.png"alt="Card image cap">
                             <div class="card-body">
                               <h5 class="card-title"><b>MONDAY - TUESDAY</b></h5>
                               <p class="card-text">
@@ -122,7 +122,7 @@
                 </div>
                 <div class="col-md-4 pl-4">
                     <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" style="height:13.5rem; width:100%;" src="https://www.flaticon.com/svg/static/icons/svg/40/40072.svg" alt="Card image cap">
+                        <img class="card-img-top" style="height:13.5rem; width:100%;" src="https://cdn-icons-png.flaticon.com/512/2302/2302208.png" alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title"><b>WEDNESDAY - THURSDAY</b></h5>
                           <p class="card-text">
@@ -133,7 +133,7 @@
                 </div>
                 <div class="col-md-4 pl-4">
                     <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" style="height:13.5rem; width:100%;"  src="https://www.flaticon.com/svg/static/icons/svg/39/39981.svg" alt="Card image cap">
+                        <img class="card-img-top" style="height:13.5rem; width:100%;"  src="https://cdn-icons-png.flaticon.com/512/925/925847.png" alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title"><b>FRIDAY - SATURDAY</b></h5>
                           <p class="card-text">
@@ -259,7 +259,7 @@
     <div class="container-fluid bottom-footer pt-2" style="background-color:#95a5a6;">
       <div class="row">
         <div class="col-12 text-center">
-          <p>Copyrights © 2020 - All rights reserved</p>
+          <p>Copyrights Â© 2020 - All rights reserved</p>
         </div>
       </div>
     </div>
