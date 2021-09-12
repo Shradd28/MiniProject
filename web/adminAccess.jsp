@@ -91,7 +91,7 @@
     <br>
     <body>
 
-        <h2> <img src="https://img-premium.flaticon.com/png/512/3200/premium/3200751.png?token=exp=1631434579~hmac=bf00d3c52cacfa23b97a782352f32e5d" width="50px" alt="">
+        <h2> <img src="https://cdn-icons-png.flaticon.com/512/3456/3456426.png" width="50px" alt="">
             Students registered for Regular batch are listed below--></h2>
         <TABLE cellpadding="15" border="1" style="background-color: #ffffcc;">
             <tr>
@@ -160,7 +160,7 @@
     </font>
     <br><br>
 
-    <h2><img src="https://img-premium.flaticon.com/png/512/3200/premium/3200751.png?token=exp=1631434579~hmac=bf00d3c52cacfa23b97a782352f32e5d" width="50px" alt="">Students registered for Exclusive batch are listed below--></h2>
+    <h2><img src="https://cdn-icons-png.flaticon.com/512/3456/3456426.png" width="50px" alt="">Students registered for Exclusive batch are listed below--></h2>
     <TABLE cellpadding="15" border="1" style="background-color: #ffffcc;">
         <tr>
             <td><b>ID</b></td>
