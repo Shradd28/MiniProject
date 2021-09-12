@@ -47,7 +47,7 @@ and open the template in the editor.
                 <div class="container-fluid">
                     <nav class="navbar navbar-light navbar-expand-lg" style="background-color:#a495f0;" >
                         <a class="navbar-brand" href="">
-                            <img src="https://www.flaticon.com/svg/static/icons/svg/1226/1226240.svg" width="50px" alt="">
+                            <img src="https://cdn-icons-png.flaticon.com/512/1997/1997780.png" width="50px" alt="">
                         </a>
                         <button data-toggle="collapse" data-target="#navbarToggler" type="button" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
                         <div class="collapse navbar-collapse" id="navbarToggler">
@@ -105,7 +105,7 @@ and open the template in the editor.
       </div>
       <div class="row">
         <div class="col-md-4 text-center">
-          <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/2811/2811157.svg"  alt="">
+          <img class="img-fluid  qualities-img  p-5" src="https://cdn-icons-png.flaticon.com/512/1728/1728650.png"  alt="">
           <h5>
             Ballet Fees
           </h5>
@@ -119,7 +119,7 @@ and open the template in the editor.
           </p>
         </div>
         <div class="col-md-4 text-center">
-          <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/2410/2410221.svg" alt="">
+          <img class="img-fluid  qualities-img  p-5" src="https://cdn-icons-png.flaticon.com/512/2410/2410221.png" alt="">
           <h5>
             Ballroom Fees
           </h5>
@@ -133,7 +133,7 @@ and open the template in the editor.
           </p>
         </div>
         <div class="col-md-4 text-center">
-          <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/3048/3048327.svg" alt="">
+          <img class="img-fluid  qualities-img  p-5" src="https://cdn-icons-png.flaticon.com/512/3048/3048327.png" alt="">
           <h5>
             Hip-Hop Fees
           </h5>
@@ -150,7 +150,7 @@ and open the template in the editor.
       </div>
       <div class="row">
         <div class="col-md-4 text-center">
-          <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/925/925847.svg" alt="">
+          <img class="img-fluid  qualities-img  p-5" src="https://cdn-icons-png.flaticon.com/512/925/925847.png" alt="">
           <h5>
             Contemporary Fees
           </h5>
@@ -164,7 +164,7 @@ and open the template in the editor.
           
         </div>
         <div class="col-md-4 text-center">
-          <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/1902/1902302.svg" alt="">
+          <img class="img-fluid  qualities-img  p-5" src="https://cdn-icons-png.flaticon.com/512/1902/1902302.png" alt="">
           <h5>
             Salsa Fees
           </h5>
@@ -177,7 +177,7 @@ and open the template in the editor.
           </p>
         </div>
         <div class="col-md-4 text-center">
-          <img class="img-fluid  qualities-img  p-5" src= "https://www.flaticon.com/svg/static/icons/svg/2302/2302208.svg" alt="">
+          <img class="img-fluid  qualities-img  p-5" src= "https://cdn-icons-png.flaticon.com/512/2302/2302208.png" alt="">
           <h5>
             Zumba Fees
           </h5>
