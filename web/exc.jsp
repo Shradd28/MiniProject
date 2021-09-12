@@ -29,13 +29,13 @@ and open the template in the editor.
         <title>Home - Dance Academy !</title>
 
     </head>
-   <body style="background-color:#dfe6e9;">
+    <body>
         <header>
             <div class="p-1" id = "topHeader">
                 <div class ="container ">
                     <div class ="row">
                         <div class = "col-12 text-right">
-                            <a	class ="p-1" href="tel: +919090909090" ><i class="fas fa-phone"></i> +(91)9090909090</a>
+                            <a class ="p-1" href="tel: +919090909090" ><i class="fas fa-phone"></i> +(91)9090909090</a>
                             <a class ="p-1" href="mail to: danceacademy@gmail.com"><i class="fas fa-envelope"></i> danceacademy@gmail.com</a>
                         </div>
                     </div>
@@ -51,19 +51,22 @@ and open the template in the editor.
                         <div class="collapse navbar-collapse" id="navbarToggler">
                             <ul class="navbar-nav" >
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Home</a>
+                                    <a class="nav-link" href="index.html">Home</a>
                                 </li>
 
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Dance Classes</a>
                                     <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="#">Admin Login</a>
+                                        <a class="dropdown-item" href="adminLogin.jsp">Admin Login</a>
                                         <a class="dropdown-item" href="index.jsp">Student Login</a>     
                                     </div>
                                 </li>
 
+                                <li class="nav-item">
+                                    <a class="nav-link" href="admission.jsp">Admission</a>
+                                </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Batches</a>
+                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button">Batches</a>
                                     <div class="dropdown-menu">
                                         <a class="dropdown-item" href="reg.jsp">Regular Batches</a>
                                         <a class="dropdown-item" href="exc.jsp">Exclusive Batches</a>     
@@ -71,7 +74,7 @@ and open the template in the editor.
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="">About Us</a>
+                                    <a class="nav-link" href="instructor.jsp">Our Instructors</a>
                                 </li>
 
                                 <li class="nav-item">
@@ -83,6 +86,8 @@ and open the template in the editor.
                 </div>
             </div>
         </header>
+
+
 
         <form method="post" action="exclusive.jsp">
             <h1>Register now for exclusive batch!!!</h1>
@@ -184,7 +189,7 @@ and open the template in the editor.
             <div class="container-fluid bottom-footer pt-2" style="background-color:#95a5a6;">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <p>Copyrights © 2020 - All rights reserved</p>
+                        <p>Copyrights Â© 2020 - All rights reserved</p>
                     </div>
                 </div>
             </div>
