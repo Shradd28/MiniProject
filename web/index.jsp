@@ -44,14 +44,14 @@
                         <div class="collapse navbar-collapse" id="navbarToggler">
                             <ul class="navbar-nav" >
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Home</a>
+                                    <a class="nav-link" href="index.html">Home</a>
                                 </li>
 
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Dance Classes</a>
                                     <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="#">Admin Login</a>
-                                        <a class="dropdown-item" href="#">Student Login</a>     
+                                        <a class="dropdown-item" href="adminLogin.jsp">Admin Login</a>
+                                        <a class="dropdown-item" href="index.jsp">Student Login</a>     
                                     </div>
                                 </li>
 
@@ -59,16 +59,16 @@
                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Batches</a>
                                     <div class="dropdown-menu">
                                         <a class="dropdown-item" href="reg.jsp">Regular Batches</a>
-                                        <a class="dropdown-item" href="#">Exclusive Batches</a>     
+                                        <a class="dropdown-item" href="exc.jsp">Exclusive Batches</a>     
                                     </div>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">About Us</a>
+                                    <a class="nav-link" href="instrctor.jsp">Our Instructors</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Contact Us</a>
+                                    <a class="nav-link" href="contact.jsp">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
