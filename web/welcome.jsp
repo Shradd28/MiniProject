@@ -15,7 +15,7 @@
 
         <!-- Custom CSS -->
         <link rel = "stylesheet" href = "newcss.css">
-        <title>Regular Batch</title>
+        <title>success</title>
 
     </head>
     <body style="background-color:#dfe6e9;">
@@ -40,31 +40,31 @@
                         <div class="collapse navbar-collapse" id="navbarToggler">
                             <ul class="navbar-nav" >
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Home</a>
+                                    <a class="nav-link" href="index.html">Home</a>
                                 </li>
 
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Dance Classes</a>
                                     <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="#">Admin Login</a>
-                                        <a class="dropdown-item" href="#">Student Login</a>     
+                                        <a class="dropdown-item" href="adminLogin.jsp">Admin Login</a>
+                                        <a class="dropdown-item" href="index.jsp">Student Login</a>     
                                     </div>
                                 </li>
 
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Batches</a>
                                     <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="#">Regular Batches</a>
-                                        <a class="dropdown-item" href="#">Exclusive Batches</a>     
+                                        <a class="dropdown-item" href="reg.jsp">Regular Batches</a>
+                                        <a class="dropdown-item" href="exc.jsp">Exclusive Batches</a>     
                                     </div>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">About Us</a>
+                                    <a class="nav-link" href="instructor.jsp">Our Instructors</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Contact Us</a>
+                                    <a class="nav-link" href="contact.jsp">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="col-md-7" >
-                    <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/1786/1786650.svg" width="300px" alt="">
+                    <img class="img-fluid  qualities-img  p-5" src="https://img-premium.flaticon.com/png/512/1974/premium/1974951.png?token=exp=1631444200~hmac=0ac0189e0137f89731496daa916d72c4" width="300px" alt="">
 
                 </div>
             </div>
