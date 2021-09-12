@@ -96,7 +96,7 @@ and open the template in the editor.
                 </div>
 
                 <div class="col-md-7" >
-                    <img class="img-fluid  qualities-img  p-5" src="https://www.flaticon.com/svg/static/icons/svg/1636/1636054.svg" width="400px" alt="">
+                    <img class="img-fluid  qualities-img  p-5" src="https://img-premium.flaticon.com/png/512/738/premium/738884.png?token=exp=1631444340~hmac=75df7c33dfb008a16860ec0abd385fc9" width="400px" alt="">
 
                 </div>
             </div>
@@ -153,7 +153,7 @@ and open the template in the editor.
             <div class="container-fluid bottom-footer pt-2" style="background-color:#95a5a6;">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <p>Copyrights © 2020 - All rights reserved</p>
+                        <p>Copyrights Â© 2020 - All rights reserved</p>
                     </div>
                 </div>
             </div>
