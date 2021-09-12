@@ -30,62 +30,62 @@
 
     </head>
     <body>
-        <header>
-            <div class="p-1" id = "topHeader">
-                <div class ="container ">
-                    <div class ="row">
-                        <div class = "col-12 text-right">
-                            <a class ="p-1" href="tel: +919090909090" ><i class="fas fa-phone"></i> +(91)9090909090</a>
-                            <a class ="p-1" href="mail to: danceacademy@gmail.com"><i class="fas fa-envelope"></i> danceacademy@gmail.com</a>
-                        </div>
+    <header>
+        <div class="p-1" id = "topHeader">
+            <div class ="container ">
+                <div class ="row">
+                    <div class = "col-12 text-right">
+                        <a class ="p-1" href="tel: +919090909090" ><i class="fas fa-phone"></i> +(91)9090909090</a>
+                        <a class ="p-1" href="mail to: danceacademy@gmail.com"><i class="fas fa-envelope"></i> danceacademy@gmail.com</a>
                     </div>
                 </div>
             </div>
-            <div id="bottomHeader">
-                <div class="container-fluid">
-                    <nav class="navbar navbar-light navbar-expand-lg" style="background-color:#a495f0;" >
-                        <a class="navbar-brand" href="">
-                            <img src="https://cdn-icons-png.flaticon.com/512/1997/1997780.png" width="50px" alt="">
-                        </a>
-                        <button data-toggle="collapse" data-target="#navbarToggler" type="button" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
-                        <div class="collapse navbar-collapse" id="navbarToggler">
-                            <ul class="navbar-nav" >
-                                <li class="nav-item">
-                                    <a class="nav-link" href="index.html">Home</a>
-                                </li>
+        </div>
+        <div id="bottomHeader">
+            <div class="container-fluid">
+                <nav class="navbar navbar-light navbar-expand-lg" style="background-color:#a495f0;" >
+                    <a class="navbar-brand" href="">
+                        <img src="https://cdn-icons-png.flaticon.com/512/1997/1997780.png" width="50px" alt="">
+                    </a>
+                    <button data-toggle="collapse" data-target="#navbarToggler" type="button" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarToggler">
+                        <ul class="navbar-nav" >
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Home</a>
+                            </li>
 
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Dance Classes</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="adminLogin.jsp">Admin Login</a>
-                                        <a class="dropdown-item" href="index.jsp">Student Login</a>     
-                                    </div>
-                                </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" href="#">Dance Classes</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="adminLogin.jsp">Admin Login</a>
+                                    <a class="dropdown-item" href="index.jsp">Student Login</a>     
+                                </div>
+                            </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link" href="admission.jsp">Admission</a>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button">Batches</a>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="reg.jsp">Regular Batches</a>
-                                        <a class="dropdown-item" href="exc.jsp">Exclusive Batches</a>     
-                                    </div>
-                                </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="admission.jsp">Admission</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button">Batches</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="reg.jsp">Regular Batches</a>
+                                    <a class="dropdown-item" href="exc.jsp">Exclusive Batches</a>     
+                                </div>
+                            </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link" href="instructor.jsp">Our Instructors</a>
-                                </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="instructor.jsp">Our Instructors</a>
+                            </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact.jsp">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.jsp">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
             </div>
-        </header>
+        </div>
+    </header>
 
 
     <br>
@@ -203,7 +203,7 @@
         <% } %>
     </TABLE>
     <br><br>
-    <h1><img src="https://cdn-icons-png.flaticon.com/512/1484/1484584.png" width="50px" alt="">Feedback is here!!!</h1>
+    <h2><img src="https://cdn-icons-png.flaticon.com/512/1484/1484584.png" width="50px" alt="">Feedback is here!!!</h2>
     <TABLE cellpadding="15" border="1" style="background-color: #ffffcc;">
         <tr>
 
@@ -233,6 +233,34 @@
 
         </TR>
         <% } %>
+    </table>
+         <br><br>
+         <br>
+    <h2><img src="https://cdn-icons-png.flaticon.com/512/1484/1484584.png" width="50px" alt="">Queries are here!!!</h2>
+    <TABLE cellpadding="15" border="1" style="background-color: #ffffcc;">
+        <tr>
+            <td><b>Name</b></td>
+            <td><b>Email</b></td>
+            <td><b>Queries</b></td>
+            
+        </tr>
+        <%String QueryString3 = "SELECT * from contact";
+            rs = statement.executeQuery(QueryString3);
+        %>
+
+        <%
+            while (rs.next()) {
+        %>
+        <TR>
+            
+            <TD><%=rs.getString(1)%></TD>
+            <TD><%=rs.getString(2)%></TD>
+            <TD><%=rs.getString(3)%></TD>
+            
+
+        </TR>
+        <% } %>
+    </TABLE>
         <%
             // close all the connections.
             rs.close();
